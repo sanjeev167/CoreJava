@@ -1,3 +1,4 @@
+package com.lambda;
 import java.util.HashMap;
 import java.util.Map;
 
